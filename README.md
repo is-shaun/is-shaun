@@ -15,6 +15,3 @@ These are some of the languages & tools I use to develop projects.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=is-shaun&theme=radical&border_radius=10&background=45%2C250D0D%2C060202)](https://git.io/streak-stats)
 
-### More Info
-
-> I currently work at [Spyxpo](https://www.spyxpo.com) in software development & marketing department as [Spyxpo](https://www.spyxpo.com) is a startup which works in R&D deparment of various technologies.
